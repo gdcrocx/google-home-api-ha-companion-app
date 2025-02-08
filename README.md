@@ -1,9 +1,9 @@
 # Google Home - Home Assistant Companion app 
 
 ### Problem
-- Google Home APIs can only be used from an Android environment. There isn't a REST API endpoint.
-- Home Assistant does not have access to legacy, non-Matter supported IoT devices that Google Home supports.
-- Google Home Runtime isn't integrated with Home Assistant
+- Google Home APIs can only be used from an Android environment. [There isn't a REST API endpoint planned for the near future](https://www.googlenestcommunity.com/t5/Smart-Home-Developer-Forum/Will-the-Google-Home-APIs-be-available-as-a-direct-REST-API-without-the/m-p/668079).
+- Home Assistant does not have visibility to legacy, non-Matter supported IoT devices that support Google Home, without the use of Tasmota or similar tools and/or further development.
+- Google Home Runtime isn't integrated with Home Assistant yet.
 
 ### Solution
 
@@ -28,5 +28,3 @@ Indemnification: You agree to indemnify and hold harmless the developer, nor its
 Software or Hardware Failures: The developer, nor its derivatives, shall not be responsible for any software or hardware failures, system crashes, or data loss resulting from the installation or use of this App. It is the user's responsibility to ensure regular backups and take appropriate precautions to prevent data loss.
 
 By installing and using this App, you acknowledge that you have read, understood, and agree to this disclaimer.
-
-
