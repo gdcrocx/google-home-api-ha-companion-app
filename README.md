@@ -1,4 +1,6 @@
-# Google Home - Home Assistant Companion app 
+# Google Home - Home Assistant Companion app 🚧
+
+Status - `In Development`
 
 ### Problem
 - Google Home APIs can only be used from an Android environment. [There isn't a REST API endpoint planned for the near future](https://www.googlenestcommunity.com/t5/Smart-Home-Developer-Forum/Will-the-Google-Home-APIs-be-available-as-a-direct-REST-API-without-the/m-p/668079).
